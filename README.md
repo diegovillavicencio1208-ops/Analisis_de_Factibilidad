@@ -1,6 +1,6 @@
-# Estrategia de Conversión de Clientes: Análisis de Patrones de Uso y Factibilidad de Mercado para Suscripciones.
+# Estrategia de Conversión de Usuarios: Análisis Geoespacial y de Micro-movilidad
 
-Un estudio analítico orientado a identificar disparidades de comportamiento entre usuarios casuales y recurrentes. Mediante el análisis de geolocalización y frecuencia de uso, se definen los pilares de una campaña de marketing segmentada que maximiza la migración hacia modelos de membresía.
+Análisis diferencial de comportamiento orientado a diagnosticar las brechas de uso y ubicación que separan al usuario ocasional del recurrente. El proyecto actúa como un **motor de inteligencia comercial**, traduciendo la movilidad y la concentración geográfica en pilares accionables que permiten **focalizar la inversión de marketing en puntos críticos de afluencia** y diseñar narrativas de conversión basadas en el binomio salud-ahorro
 
 > Análisis realizado íntegramente en **R**.
 
